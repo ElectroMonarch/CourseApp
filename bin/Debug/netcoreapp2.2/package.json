@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "botstrap": "^0.20.1",
+    "install": "^0.13.0",
+    "uninstall": "^0.0.0"
+  }
+}
